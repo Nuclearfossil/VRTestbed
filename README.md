@@ -7,7 +7,7 @@ A lot of the code is not production ready, as it's intent is to try a lot of dif
 HUD options, etc).  I also expect there to be a mix of C++ and Blueprint code, depending on need.
 
 ## Version
-Currently works with Unreal 4.16.3
+Currently works with Unreal 4.18.3
 
 ## Classes
 ### Pawns
