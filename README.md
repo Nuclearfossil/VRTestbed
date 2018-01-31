@@ -6,6 +6,9 @@ the project I've decided to spend some time with.
 A lot of the code is not production ready, as it's intent is to try a lot of different things (control schemes,
 HUD options, etc).  I also expect there to be a mix of C++ and Blueprint code, depending on need.
 
+## Version
+Currently works with Unreal 4.16.3
+
 ## Classes
 ### Pawns
 #### StarfighterPawn

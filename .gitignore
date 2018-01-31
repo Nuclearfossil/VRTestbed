@@ -73,3 +73,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# RAW assets folder
+Raw/*
+
+# WindowsNoEditor folder
+WindowsNoEditor/*
