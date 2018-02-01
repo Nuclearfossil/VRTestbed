@@ -6,6 +6,15 @@ the project I've decided to spend some time with.
 A lot of the code is not production ready, as it's intent is to try a lot of different things (control schemes,
 HUD options, etc).  I also expect there to be a mix of C++ and Blueprint code, depending on need.
 
+## Notes:
+
+The best branch to work from would be `dev.4.18.3`. It has been 'tested' and confirmed to work. `Master` is still a work in progress (I know, it should always be stable - but I pulled the repo from Perforce's Helix server before it went down and I never had a proper chance to get everything situated correctly).
+
+There are two maps to work from: `Startup` and `Parkinglot`. `Startup` is the main menu level and `Parkinglot` is nothing more than a test for VR and starfighter control.
+
+Movement is controlled currently by the mouse and keyboard.
+Use `W` and `A` to accelerate and deccelerate. `0` to come to a full stop.
+
 ## Classes
 ### Pawns
 #### StarfighterPawn
