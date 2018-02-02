@@ -77,9 +77,8 @@ DerivedDataCache/*
 # RAW assets folder
 Raw/*
 
-# WindowsNoEditor folder
-WindowsNoEditor/*
-
-# Skip Dist folder
+# ignore Dist folder
 Dist/*
 
+# ignore WindowsNoEditor
+WindowsNoEditor/*
