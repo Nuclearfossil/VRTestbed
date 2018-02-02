@@ -6,6 +6,9 @@ the project I've decided to spend some time with.
 A lot of the code is not production ready, as it's intent is to try a lot of different things (control schemes,
 HUD options, etc).  I also expect there to be a mix of C++ and Blueprint code, depending on need.
 
+## Version
+Currently works with Unreal 4.18.3
+
 ## Notes:
 
 The best branch to work from would be `dev.4.18.3`. It has been 'tested' and confirmed to work. `Master` is still a work in progress (I know, it should always be stable - but I pulled the repo from Perforce's Helix server before it went down and I never had a proper chance to get everything situated correctly).

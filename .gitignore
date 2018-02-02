@@ -74,9 +74,11 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# RAW assets folder
+Raw/*
+
 # ignore Dist folder
 Dist/*
 
 # ignore WindowsNoEditor
 WindowsNoEditor/*
-
