@@ -79,3 +79,7 @@ Raw/*
 
 # WindowsNoEditor folder
 WindowsNoEditor/*
+
+# Skip Dist folder
+Dist/*
+
